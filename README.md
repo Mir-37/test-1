@@ -5,5 +5,5 @@ I am learning *markdown* recently. It is a whole new topic to me. But this [site
 
 Tasks : 
 
-[x] repo 1 done
-[ ] repo 2 yet to be done
+- [x] repo 1 done
+- [ ] repo 2 yet to be done
